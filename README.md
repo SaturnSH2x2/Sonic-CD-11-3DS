@@ -1,4 +1,7 @@
 ![](header.png?raw=true)
+# **THIS PORT IS DEPRECATED**
++ This port is no longer maintained. Please use Voxel9's [Sonic CD port](https://github.com/Voxel9/Sonic-CD-11-3DS-Redux/releases) instead.
+
 # **SUPPORT THE OFFICIAL RELEASE OF SONIC CD**
 + Without assets from the official release this decompilation will not run.
 
